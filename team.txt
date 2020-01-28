@@ -1,3 +1,4 @@
 # EG: 
-# personn1, 99944444
-# personn2, 99955555
+sanghuk2, 48712903
+newmanc1, 75534173
+carletoz, 46176225

@@ -1,0 +1,60 @@
+Subdomains and the number of URLs processed from each subdomain 
+www.ics.uci.edu	6
+ngs.ics.uci.edu	8
+futurehealth.ics.uci.edu	3
+The page with the most outlinks 
+https://ngs.ics.uci.edu/research/presentations
+The Outlinks are: 
+https://ngs.ics.uci.edu/entrepreneurship/past-companies/
+http://www.slideshare.net/jain49/icsc-2015-semantic-links-in-visual-web-150210
+https://ngs.ics.uci.edu/blog/
+https://ngs.ics.uci.edu/research/presentations/
+https://ngs.ics.uci.edu/entrepreneurship/current-companies/
+https://ngs.ics.uci.edu/research/patents/
+http://www.slideshare.net/jain49/experiential-digital-culture-110225
+http://www.slideshare.net/jain49/social-life-networks-presentation-at-fb-110713
+https://ngs.ics.uci.edu/research/projects/
+https://ngs.ics.uci.edu/partners/current-students/
+https://ngs.ics.uci.edu/entrepreneurship/
+https://ngs.ics.uci.edu/teaching/current-courses/
+#branding
+https://ngs.ics.uci.edu
+https://ngs.ics.uci.edu/research/research-papers/
+https://ngs.ics.uci.edu/partners/collaborators/
+http://www.slideshare.net/jain49/objective-storytelling-141106
+http://www.slideshare.net/jain49/event-web
+https://ngs.ics.uci.edu/about-ramesh/events/
+http://www.slideshare.net/jain49/multimedia-big-data-140619
+https://ngs.ics.uci.edu/professionalsocial/
+https://ngs.ics.uci.edu/teaching/
+https://ngs.ics.uci.edu/teaching/past-courses/
+https://ngs.ics.uci.edu/professionalsocial/interviews/
+http://www.slideshare.net/jain49/contenxt-100407
+https://ngs.ics.uci.edu/professionalsocial/recognitions/
+http://www.slideshare.net/jain49/designing-intelligent-social-systems-121205
+http://wordpress.org
+http://www.slideshare.net/jain49/from-health-persona-to-societal-health-uci-131202
+https://ngs.ics.uci.edu/
+https://ngs.ics.uci.edu/personal/favorite-books/
+https://ngs.ics.uci.edu/research/research-papers/multimedia-information-management/
+http://themehorse.com
+https://ngs.ics.uci.edu/personal/education/
+https://ngs.ics.uci.edu/about-ramesh/news/
+https://ngs.ics.uci.edu/research/research-papers/experiential-computing/
+https://ngs.ics.uci.edu/research/books/
+https://ngs.ics.uci.edu/personal/past-affiliations/
+http://www.slideshare.net/jain49/content-without-context-is-meaningless
+http://www.slideshare.net/jain49/pragyan-talk-100227
+http://www.slideshare.net/jain49/eventshop-120721
+https://ngs.ics.uci.edu/research/
+https://ngs.ics.uci.edu/partners/past-students/
+http://www.slideshare.net/jain49/situation-recognition-acm-mm-121029
+https://ngs.ics.uci.edu/partners/
+https://ngs.ics.uci.edu/personal/
+http://www.slideshare.net/jain49/eventweb-towards-experiential-computing-100927
+http://www.slideshare.net/jain49/nsf-iii-events-and-experiences-100422
+https://ngs.ics.uci.edu/personal/favorite-quotes/
+https://ngs.ics.uci.edu/digital-india-a-potentially-transformative-opportunity/
+https://ngs.ics.uci.edu/professionalsocial/services/
+https://ngs.ics.uci.edu/research/research-papers/computer-vision/
+http://www.slideshare.net/jain49/acm-achievement-award-acceptance-20101026
